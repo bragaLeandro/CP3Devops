@@ -1,5 +1,8 @@
 # CP3Devops
 
+# Arquitetura do projeto:
+![image](https://github.com/bragaLeandro/CP3Devops/assets/101952699/cd0ff455-a478-47cf-b484-cd505affe68c)
+
 ## Para rodar o projeto, siga os passos:
 
 ### 1: Inicie o Docker Desktop
@@ -17,6 +20,5 @@ $ \c db
           
 Com isso, você já terá total acesso ao projeto
 
-# Arquitetura do projeto:
-![image](https://github.com/bragaLeandro/CP3Devops/assets/101952699/cd0ff455-a478-47cf-b484-cd505affe68c)
+
 
