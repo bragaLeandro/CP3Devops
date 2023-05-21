@@ -7,8 +7,10 @@
 
 ### 1: Inicie o Docker Desktop
 
-### 2: Dentro da pasta principal que possuí o docker-compose, rode o comando: docker-compose up --build
-
+### 2: Dentro da pasta principal que possuí o docker-compose, rode o comando: 
+```
+$ docker-compose up --build
+```
 ### 3: Caso queira entrar no banco de dados, siga os passos:
 
 Entre no container do  banco de dados, deve estar nominado como "db-1"
