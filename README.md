@@ -1,7 +1,7 @@
 # CP3Devops
 
 # Arquitetura do projeto:
-![image](https://github.com/bragaLeandro/CP3Devops/assets/101952699/cd0ff455-a478-47cf-b484-cd505affe68c)
+![image](https://user-images.githubusercontent.com/101952699/239716120-de474f29-11ae-42e5-a9a5-9a6a6330946e.png)
 
 ## Para rodar o projeto, siga os passos:
 
